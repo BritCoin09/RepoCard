@@ -1,2 +1,5 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cdec41c0-148a-4d02-b78b-cce1af1968ac" width="800" alt="RepoCard for Britny Chambers">
+</p>
 
-<img width="1536" height="1024" alt="Create a GitHub repo" src="https://github.com/user-attachments/assets/1c7889c9-7c9a-46f2-a56d-d67b7fadaec2" />
+
